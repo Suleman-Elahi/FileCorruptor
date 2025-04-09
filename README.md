@@ -3,6 +3,8 @@
 
 A command-line tool written in Go to corrupt files on a public server, making them unusable after use. This acts as a shredder to prevent data theft by overwriting file contents with random data. Use with caution—this is a destructive tool!
 
+Get Binary Releases Here: https://github.com/Suleman-Elahi/FileCorruptor/releases
+
 ## Features
 - Corrupts individual files or directories
 - Handles text files (`.txt`, `.csv`, `.msg`, etc.) by replacing contents with 32 bytes of random data
